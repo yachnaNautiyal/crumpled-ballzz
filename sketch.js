@@ -33,7 +33,7 @@ right_wall=new Ground(800,405,15,130)
 	  density:1.2
   }
   //Create the Bodies Here.
-	ball=Bodies.circle(70,100,50,ball_options)
+	ball=Bodies.circle(260,100,50,ball_options)
 	World.add(world,ball)
 
 	  rectMode(CENTER);
